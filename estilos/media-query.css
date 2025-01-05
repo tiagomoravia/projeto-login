@@ -38,7 +38,7 @@
         height: 100%;
     }
 
-    sectiono#login > div#formulario {
+    section#login > div#formulario {
         float: left;
         width: 50%;
     }
